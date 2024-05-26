@@ -39,6 +39,9 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+>[!NOTE] 
+>To view the github page, [click here](https://github.com/namanSeth-creator/Number-guessing-python-game).
+
 ---
 
 Enjoy playing the Number Guessing Game! 🎉
